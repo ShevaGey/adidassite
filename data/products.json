@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "Adidas T-Shirt",
+    "price": "29.99",
+    "image": "img/tshirt.jpg",
+    "description": "Легка футболка з дихаючого матеріалу"
+  },
+  {
+    "id": 2,
+    "name": "Adidas Hoodie",
+    "price": "59.99",
+    "image": "img/hoodie.jpg",
+    "description": "Зручна худі для повсякденного використання"
+  },
+  {
+    "id": 3,
+    "name": "Adidas Sweatpants",
+    "price": "49.99",
+    "image": "img/sweatpants.jpg",
+    "description": "Зручні спортивні штани для тренувань"
+  },
+  {
+    "id": 4,
+    "name": "Adidas Running Shoes",
+    "price": "89.99",
+    "image": "img/runningshoes.jpg",
+    "description": "Легкі кросівки для бігу з амортизацією"
+  },
+  {
+    "id": 5,
+    "name": "Adidas Jacket",
+    "price": "79.99",
+    "image": "img/jacket.jpg",
+    "description": "Стильна куртка для холодної погоди"
+  },
+  {
+    "id": 6,
+    "name": "Adidas Cap",
+    "price": "19.99",
+    "image": "img/cap.jpg",
+    "description": "Модний бейсболка для літнього сезону"
+  },
+  {
+    "id": 7,
+    "name": "Adidas Gym Bag",
+    "price": "29.99",
+    "image": "img/gymbag.jpg",
+    "description": "Мішок для спорту з простором для всього необхідного"
+  },
+  {
+    "id": 8,
+    "name": "Adidas Socks",
+    "price": "9.99",
+    "image": "img/socks.jpg",
+    "description": "Зручні спортивні шкарпетки з дихаючого матеріалу"
+  },
+  {
+    "id": 9,
+    "name": "Adidas Tracksuit",
+    "price": "99.99",
+    "image": "img/tracksuit.jpg",
+    "description": "Класичний спортивний костюм для тренувань"
+  },
+  {
+    "id": 10,
+    "name": "Adidas Shorts",
+    "price": "34.99",
+    "image": "img/shorts.jpg",
+    "description": "Спортивні шорти для активного відпочинку"
+  },
+  {
+    "id": 11,
+    "name": "Adidas Sweatshirt",
+    "price": "69.99",
+    "image": "img/sweatshirt.jpg",
+    "description": "Тепла толстовка з капюшоном для прохолодної погоди"
+  },
+  {
+    "id": 12,
+    "name": "Adidas Sneakers",
+    "price": "109.99",
+    "image": "img/sneakers.jpg",
+    "description": "Модні кросівки для щоденного використання"
+  },
+  {
+    "id": 13,
+    "name": "Adidas Windbreaker",
+    "price": "54.99",
+    "image": "img/windbreaker.jpg",
+    "description": "Легкий вітровка для весняних прогулянок"
+  },
+  {
+    "id": 14,
+    "name": "Adidas Sports Bra",
+    "price": "39.99",
+    "image": "img/sportsbra.jpg",
+    "description": "Комфортний спортивний бюстгальтер для активних тренувань"
+  },
+  {
+    "id": 15,
+    "name": "Adidas Running Tights",
+    "price": "39.99",
+    "image": "img/runningtights.jpg",
+    "description": "Еластичні штани для бігу з підтримкою м'язів"
+  },
+  {
+    "id": 16,
+    "name": "Adidas Backpack",
+    "price": "49.99",
+    "image": "img/backpack.jpg",
+    "description": "Модний рюкзак для міського використання"
+  },
+  {
+    "id": 17,
+    "name": "Adidas Sunglasses",
+    "price": "29.99",
+    "image": "img/sunglasses.jpg",
+    "description": "Стильні сонцезахисні окуляри для активного відпочинку"
+  }
+]
