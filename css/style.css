@@ -34,6 +34,17 @@ header p {
   margin-top: 8px;
 }
 
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 60px;
+  font-size: 18px;
+  color: #aaaaaa;
+  padding: 20px 0;
+}
+
 /* Стилі контейнера товарів */
 .product-grid {
   display: grid;
